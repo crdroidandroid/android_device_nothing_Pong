@@ -31,3 +31,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=A065 \
     SystemDevice=Pong \
     SystemName=Pong
+
+#CrDroid
+EXTRA_UDFPS_ANIMATIONS := true
+TARGET_SUPPORTS_BLUR := true
+TARGET_HAS_UDFPS := true
