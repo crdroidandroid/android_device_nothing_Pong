@@ -30,5 +30,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=Pong \
     SystemDevice=Pong \
     SystemName=Pong
-
-TARGET_INCLUDE_FIRMWARE := true
