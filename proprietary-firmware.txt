@@ -1,5 +1,3 @@
-## All proprietary files from this list, unless pinned and noted otherwise,
-## are from Nothing Phone (2) (V4.0-251119-1654).
 
 abl.img;AB
 aop.img;AB
